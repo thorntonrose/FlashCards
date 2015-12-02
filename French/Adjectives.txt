@@ -1,0 +1,36 @@
+# Adjectives
+
+# Endings
+-e    | Regular [f] ending.
+-ère  | [f] ending for -er.
+-euse | [f] ending for -eux.
+-elle | [f] ending for -eau.
+-s    | Regular plural ending.
+-x    | Plural ending for -au.
+
+# Vocabulary
+actif, active [f]  | active
+beau               | beautiful, nice
+blanc, blanche [f] | white
+bon, bonne         | good
+chaud              | hot
+difficile          | hard, difficult
+doux, douce [f]    | sweet, soft, gentle
+est                | east
+faux, fausse [f]   | false
+facile             | easy
+frais              | cool
+froid              | cold
+gros, grosse       | fat
+gauche             | left
+heureux            | happy
+long, longue [f]   | long
+nord               | north
+nouveau            | new
+ouest              | west
+prêt               | ready
+quelque            | some
+sud                | south
+vieux, vielle [f]  | old
+vrai               | true, right
+

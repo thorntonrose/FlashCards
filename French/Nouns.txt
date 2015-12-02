@@ -1,0 +1,107 @@
+# Nouns
+
+l'addition         | check
+l'ami              | friend (male)
+l'amie [f]         | friend (female)
+l'argent           | money
+l'assiette [f]     | plate
+l'auberge [f]      | inn, motel
+l'auto             | car, automobile
+l'autobus          | bus
+la banque          | bank
+la bière           | beer
+le billet          | ticket
+le boeuf           | beef
+la boisson         | beverage
+la carte           | map
+la carte routière  | road map
+le café            | coffee
+le canapé          | couch, sofa
+la chaise          | chair
+la chambre         | room
+le clef            | key
+le couteau         | knife
+la crème glacée    | ice cream
+la cuillère        | spoon
+le dessert         | dessert
+le déjeuner        | lunch
+le diner           | dinner
+le droit           | right (direction)
+l'eau [f]          | water
+l'école [f]        | school
+la écuelle         | bowl
+l'enfant           | child
+l'enfer            | hell
+l'est              | East
+l'etudiant         | student (male)
+l'etudiante        | student (female)
+la femme           | woman, wife
+la fille           | girl
+la fourchette      | fork
+le fromage         | cheese
+le fruit           | fruit
+la garcon          | boy
+la gare            | train station
+la gare routière   | bus station
+le gateau          | cake
+la/le gauche       | left (direction)
+le glace           | ice
+l'homme            | man
+l'hopital          | hospital
+l'hotel            | hotel
+le jeu             | game
+le jus             | juice
+le légume          | vegetable
+le lit             | bed
+le livre           | book
+la maison          | house
+le mari            | husband
+le métro           | subway
+la montagne        | mountain
+le musée           | museum
+la neige           | snow
+le nord            | North
+l'ordinateur       | computer
+l'ouest            | West
+la page            | page
+le passport        | passport
+la personne        | person
+la piste           | ski slope
+la poste           | post office
+le pain            | bread
+le petit déjeuner  | breakfast
+la pluie           | rain
+le poisson         | fish
+le poivre          | pepper
+la pomme           | apple
+la pomme de terre  | potato
+le porc            | porc
+le pourboire       | tip, gratuity
+la potage          | soup
+la réservation     | reservation
+le restaurant      | restaurant
+la route           | road
+la rue             | street
+la salade          | salad
+la salle à manger  | dining room
+la salle de bain   | bathroom
+le serviette       | napkin, towel
+le sel             | salt
+le signe           | sign
+le ski             | ski
+le sofa            | couch, sofa
+le soupe           | soup
+le sud             | South
+le stylo           | pen
+la table           | table
+la table d'hote    | complete dinner
+la tasse           | cup
+le thé             | tea
+les toilettes [f]  | toilet
+le train           | train
+la travail         | work
+le val             | valley
+la vallée          | valley
+le verre           | glass
+le vin             | wine
+

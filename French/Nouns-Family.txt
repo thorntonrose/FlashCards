@@ -1,0 +1,15 @@
+# Nouns - Family
+
+le arbre généalogique | family tree
+la famille            | family
+la femme              | wife
+la fille              | daughter
+le fils               | son
+le frère              | brother
+le mari               | husband
+la mère               | mother
+le neveu              | nephew
+la nièce              | niece
+le père               | father
+la soeur              | sister
+

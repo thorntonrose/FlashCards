@@ -1,0 +1,14 @@
+# Technical
+
+le clavier         | keyboard (computer, typewriter, or piano)
+écrire             | to write
+le informaticien   | computer scientist (male)
+la informaticienne | computer scientist (female)
+la informatique    | computer science
+l'ordinateur       | computer
+le programme       | computer program
+programmer         | to program
+le programmeur     | computer programmer (male)
+la programmeuse    | computer programmer (female)
+la programmation   | computer programming
+

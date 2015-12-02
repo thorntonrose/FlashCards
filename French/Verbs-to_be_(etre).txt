@@ -1,0 +1,26 @@
+# Verbs - To be (etre)
+
+# present
+je suis        | I am
+tu es          | you are
+il/elle est    | he/she/it is
+nous sommes    | we are
+vous etes      | you [pl] are
+ils/elles sont | they [m/f] are
+
+# imperfect
+j'étais           | I was
+tu étais          | you were
+il/elle était     | he/she/it was
+nous étions       | we were
+vous étiez        | you [pl] were
+ils/elles étaient | they [m/f] were
+
+#future
+je serais        | I will be
+tu seras         | you will be
+il/elle sera     | he/she/it will be
+nous serons      | we will be
+vous serez       | you [pl] will be
+ils/elles seront | they [m/f] will be
+

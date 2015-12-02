@@ -1,0 +1,8 @@
+# Conjunctions
+
+et       | and
+ou       | or
+mais     | but
+parceque | because
+donc     | so, therefore
+puis     | then

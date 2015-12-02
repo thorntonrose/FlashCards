@@ -1,0 +1,46 @@
+# -er verb forms
+
+# infinitive
+___er | to ___
+
+# participles
+___é   | ___(ed)
+___ant | ___ing
+
+# present
+je ___e          | I ___
+tu ___es         | you ___
+il/elle ___e     | he/she/it ___
+nous ___ons      | we ___
+vous ___ez       | you [pl] ___
+ils/elles ___ent | they [m/f] ___
+
+# imperfect
+je ___ais          | I ___(ed)
+tu ___ais          | you ___(ed)
+il/elle ___ait     | he/she/it ___(ed)
+nous ___ions       | we ___(ed)
+vous ___iez        | you [pl] ___(ed)
+ils/elles ___aient | they [m/f] ___(ed)
+
+# passé composé
+j'ai ___é          | I have ___
+tu as ___é         | you have ___
+il/elle a ___é     | he/she/it has ___
+nous avons ___é    | we have ___
+vous avez ___é     | you [pl] have ___
+ils/elles ont ___é | they [m/f] have ___
+
+# future
+je ___erai         | I will ___
+tu ___eras         | you will ___
+il/elle ___era     | he/she/it will ___
+nous ___erons      | we will ___
+vous ___erez       | you [pl] will ___
+ils/elles ___eront | they [m/f] will ___
+
+# imperative
+(tu) ___e     | (you) ___
+(nous) ___ons | let us ___
+(vous) ___ez  | (you [pl]) ___
+

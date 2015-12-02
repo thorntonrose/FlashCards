@@ -1,0 +1,3 @@
+#!/bin/sh
+
+jar cvfm flashcards.jar manifest.mf -C src org/flashcards

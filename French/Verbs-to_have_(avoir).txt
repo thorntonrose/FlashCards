@@ -1,0 +1,10 @@
+# Verbs - To have (avoir)
+
+j'ai       | I have
+tu as      | you have
+il a       | he/it has
+elle a     | she/it has
+nous avons | we have
+vous avez  | you [pl] have
+ils ont    | they [m] have
+elles ont  | they [f] have

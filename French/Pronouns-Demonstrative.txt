@@ -1,0 +1,10 @@
+# Demonstrative pronouns (this, that, etc.)
+
+celui (-ci,-là)  | this one, that one (m.)
+celle (-ci,-là)  | this one, that one (f.)
+ceux  (-ci,-là)  | these, those (m., pl.)
+celles (-ci,-là) | these, those (f., pl.)
+ce               | this (before être)
+ceci             | this (rarely spoken)
+cela             | that
+ça               | that (informal)

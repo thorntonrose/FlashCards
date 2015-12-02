@@ -1,0 +1,17 @@
+# Possesive pronouns
+
+mon   | my (m., bef. vowel)
+ma    | my (f.)
+mes   | my (pl.)
+ton   | your (m., bef. vowel)
+ta    | your (f.)
+te    | your (pl.)
+son   | his, her, its (m., bef. vowel)
+sa    | his, her, its (f.)
+ses   | his, her, its (pl.)
+notre | our (m., f., bef. vowel)
+nos   | our (pl.)
+votre | your (m., f., bef. vowel)
+vos   | your (pl.)
+leur  | their (m., f., bef. vowel)
+leurs | their (pl.)

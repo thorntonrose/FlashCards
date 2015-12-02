@@ -1,0 +1,10 @@
+# Verbs - To come (venir)
+
+je viens       | I come / I am coming
+tu viens       | you come
+il vient       | he/it comes
+elle vient     | she/it comes
+nous venons    | we come
+vous venez     | you [pl] come
+ils viennent   | they [m] come
+elles viennent | they [f] come

@@ -1,0 +1,40 @@
+# Calendar
+
+# General
+le mois     | month
+la semaine  | week
+le jour     | day, daytime
+la journée  | day
+aujourd'hui | today
+demain      | tomorrow
+hier        | yesterday
+
+# Days of the week
+le lundi | Monday
+le mardi    | Tuesday
+le mercredi | Wednesday
+le jeudi    | Thursday
+le vendredi | Friday
+le samedi   | Saturday
+le dimanche | Sunday
+
+# Months
+le janvier   | January
+le février   | February
+le mars      | March
+l'avril      | April
+le mai       | May
+le juin      | June
+le juillet   | July
+l'août       | August
+le septembre | September
+l'octobre    | October
+le novembre  | November
+le décembre  | December
+
+# Seasons
+le printemps | Spring
+l'été        | Summer
+l'automne    | Autumn
+l'hiver      | Winter
+

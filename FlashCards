@@ -1,0 +1,4 @@
+#!/bin/sh
+# flashcards -- Run the FlashCards app.
+
+java -jar flashcards.jar

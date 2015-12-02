@@ -1,0 +1,38 @@
+# Time
+
+# vocabulary
+l'heure [f]                  | hour
+le minute                    | minute
+la seconde                   | second
+le midi                      | noon (12h00)
+le minuit                    | midnight (0h00)
+du matin                     | a.m. (0h00 - 12h00)
+de l'après midi              | in the afternoon (12h00 - 18h00)
+du soir                      | p.m. (18h00 - 0h00)
+et quart                     | plus 1/4 hour
+moins le quart               | minus 1/4 hour
+et demie                     | plus 1/2 hour
+moins dix                    | minus 10
+moins quinze                 | minus 15
+
+# time forms
+une heure                    | 1:00 a.m. (1h00)
+deux heures du matin         | 2:00 a.m. (2h00)
+trois heures et demie        | 3:30 a.m. (3h30)
+trois heures trente          | 3:30 a.m. (3h30)
+quatre heures et quart       | 4:15 a.m. (4h15)
+quatre heures quinze         | 4:15 a.m. (4h15)
+cinq heures moins le quart   | 4:45 a.m. (4h45)
+cinq heures moins quinze     | 4:45 a.m. (4h45)
+quatre heures quarante-cinq  | 4:45 a.m. (4h45)
+sept heures moins dix        | 6:50 a.m. (6h50)
+six heures cinquante         | 6:50 a.m. (6h50)
+trois heures de l'après-midi | 3:00 p.m. (15h00)
+quinze heures                | 3:00 p.m. (15h00)
+six heures du soir           | 6:00 p.m. (18h00)
+dix-huit heures              | 6:00 p.m. (18h00)
+
+# Phrases
+Quelle heure est-il?         | What time is it?
+Il est treize heures trente. | It is 1:30 p.m. (13h30).
+

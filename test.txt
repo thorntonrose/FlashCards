@@ -1,0 +1,1 @@
+This is the front part of the flash card. | This is the back.

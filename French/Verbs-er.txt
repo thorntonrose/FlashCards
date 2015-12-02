@@ -1,0 +1,47 @@
+# -er verb forms
+
+# infinitive
+(stem)+er | to ___
+
+# participles
+(stem)+é   | ___(ed)
+(stem)+ant | ___ing
+
+# present
+je (stem)+e          | I ___
+tu (stem)+es         | you ___
+il/elle (stem)+e     | he/she/it ___
+nous (stem)+ons      | we ___
+vous (stem)+ez       | you [pl] ___
+ils/elles (stem)+ent | they [m/f] ___
+
+# imperfect
+je (stem)+ais          | I ___(ed)
+tu (stem)+ais          | you ___(ed)
+il/elle (stem)+ait     | he/she/it ___(ed)
+nous (stem)+ions       | we ___(ed)
+vous (stem)+iez        | you [pl] ___(ed)
+ils/elles (stem)+aient | they [m/f] ___(ed)
+
+# passé composé
+j'ai (stem)+é          | I have ___
+tu as (stem)+é         | you have ___
+il/elle a (stem)+é     | he/she/it has ___
+nous avons (stem)+é    | we have ___
+vous avez (stem)+é     | you [pl] have ___
+ils/elles ont (stem)+é | they [m/f] have ___
+
+# future
+je (stem)+erai         | I will ___
+tu (stem)+eras         | you will ___
+il/elle (stem)+era     | he/she/it will ___
+nous (stem)+erons      | we will ___
+vous (stem)+erez       | you [pl] will ___
+ils/elles (stem)+eront | they [m/f] will ___
+
+# imperative
+(tu) (stem)+e     | (you) ___
+(nous) (stem)+ons | let us ___
+(vous) (stem)+ez  | (you [pl]) ___
+
+

@@ -1,0 +1,42 @@
+# Verbs - manger (-ger verb)
+
+# infinitive
+manger | to eat
+
+# present
+je mange         | I eat
+tu manges        | you eat
+il/elle mange    | he/she/it eats
+nous mangeons    | we eat
+vous mangez      | you [pl] eat
+ils/elle mangent | they [m/f] eat
+
+# imperfect (past)
+je mangeais          | I ate
+tu mangeais          | you ate
+il/elle mangeait     | he/she/it ate
+nous mangions        | we ate
+vous mangiez         | you [pl] ate
+ils/elles mangeaient | they [m/f] ate
+
+# passe compose
+j'ai mangé          | I have eaten
+tu as mangé         | you have eaten
+il/elle a mangé     | he/she/it has eaten
+nous avons mangé    | we have eaten
+vous avez mangé     | you [pl] have eaten
+ils/elles ont mangé | they [m/f] have eaten
+
+#future
+je mangerai         | I will eat
+tu mangeras         | you will eat
+il/elle mangera     | he/she/it will eat
+nous mangerons      | we will eat
+vous mangerez       | you [pl] will eat
+ils/elles mangeront | they [m/f] will eat
+
+# imperative
+(tu) mange      | (you) eat
+(nous) mangeons | (we) eat
+(vous) mangez   | (you [pl]) eat
+

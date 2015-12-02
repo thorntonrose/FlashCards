@@ -1,0 +1,54 @@
+# Verbs
+
+aider         | to help
+aimer         | to like, to love
+aller         | to go
+apporter      | to bring
+arriver       | to arrive, to happen
+assister (à)  | to attend
+avoir         | to have
+avoir faim    | to be hungry
+avoir soif    | to be thirsty
+chercher      | to look for
+danser        | to dance
+déjuner       | to eat lunch
+demander      | to ask for
+détester      | to hate, to detest
+dîner         | to dine, to eat dinner
+discuter      | to discuss
+donner        | to give
+écouter       | to listen to
+entrer (dans) | to enter
+etre          | to be
+étudier       | to study
+faire         | to do, to make
+habiter       | to live (in a place)
+jouer         | to play
+lancer        | to launch
+laver         | to wash
+manger        | to eat
+montrer       | to show
+nager         | to swim
+ordonner      | to order
+lire          | to read
+parler        | to speak
+payer         | to pay
+pluevoir      | to rain
+préférer      | to prefer
+préparer      | to prepare
+présenter     | to present, to introduce
+proposer      | to propose, to suggest
+ranger        | to straighten up
+regarder      | to look at
+rencontrer    | to meet
+rester (à)    | to stay (at)
+s'élancer     | to race
+skier         | to ski
+téléphoner    | to phone
+travailler    | to work
+traverser     | to cross
+trouver       | to find
+visiter       | to visit (a place)
+vouloir       | to want
+voyager       | to travel
+

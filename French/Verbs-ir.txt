@@ -1,0 +1,46 @@
+# -ir verb forms
+
+# infinite
+(stem)+ir | to ___
+
+# participles
+(stem)+i      | ___(ed)
+(stem)+issant | ___ing
+
+# present
+je (stem)+is            | I ___
+tu (stem)+is            | you ___
+il/elle (stem)+it       | he/she/it ___
+nous (stem)+issons      | we ___
+vous (stem)+issez       | you [pl] ___
+ils/elles (stem)+issent | they [m/f] ___
+
+# imperfect
+je (stem)+issais         | I ___(ed)
+tu (stem)+issais         | you ___(ed)
+il/elle (stem)+issait    | he/she/it  ___(ed)
+nous (stem)+issions      | we ___(ed)
+vous (stem)+issiez       | you [pl] ___(ed)
+ils/elle (stem)+issaient | they [m/f] ___(ed)
+
+# passe compose
+j'ai (stem)+i          | I have ___
+tu as (stem)+i         | you have ___
+il/elle a (stem)+i     | he/she/it has ___
+nous avons (stem)+i    | we have ___
+vous avez (stem)+i     | you [pl] have ___
+ils/elles ont (stem)+i | they [m/f] have ___
+
+# future
+je (stem)+irai         | I will ___
+tu (stem)+iras         | you will ___
+il/elle (stem)+ira     | he/she/it will ___
+nous (stem)+irons      | we will ___
+vous (stem)+irez       | you [pl] will ___
+ils/elles (stem)+iront | they [m/f] will ___
+
+# imperative
+(tu) (stem)+is       | (you) ___
+(nous) (stem)+issons | let us ___
+(vous) (stem)+issez  | (you [pl]) ___
+

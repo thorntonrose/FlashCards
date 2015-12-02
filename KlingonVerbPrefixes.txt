@@ -1,0 +1,28 @@
+bI-  | you
+bo-  | you (pl)-him/her/it/them
+che- | you (pl)-us
+cho- | you-me
+Da-  | you-him/her/it/them
+DI-  | we-them
+Du-  | he/she/it-you
+gho- | imp: you/you (pl)-us
+HI-  | imp: you/you (pl)-me
+jI-  | I
+ju-  | you-us
+lI-  | he/she/it/they-you (pl)
+lu-  | they-him/her/it
+ma-  | we
+mu-  | he/she/it/they-me
+nI-  | they-you
+nu-  | he/she/it/they-us
+pe-  | imp: you (pl)
+pI-  | we-you
+qa-  | I-you
+re-  | we-you (pl)
+Sa-  | I-you (pl)
+Su-  | you (pl)
+tI-  | imp: you/you (pl)-them
+tu-  | you (pl)-me
+vI-  | I-him/her/it/them
+wI-  | we-him/her/it
+yI-  | imp: you, you/you (pl)-him/her/it

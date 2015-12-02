@@ -1,0 +1,19 @@
+# Articles
+
+# definite
+le  | the [m]
+la  | the [f]
+les | the [m/f, pl]
+
+# indefinite
+un  | a, an, one [m]
+une | a, an, one [f]
+des | some [m/f, pl]
+
+# partive/contractions
+de (+ le/la/les) | some, a few
+du (de + le)     | some, of the, from the [m]
+des (de + les)   | some, of the, from the [pl]
+au (à + le)      | to the
+aux (à + les)    | to the [pl]
+

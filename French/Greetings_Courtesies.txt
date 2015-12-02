@@ -1,0 +1,34 @@
+# Greetings, Salutations, Courtesies
+
+Bonjour.            | Hello. Good day
+Bonsoir.            | Good evening.
+Salut.              | Hello. / Good-bye.
+Bonne nuit.         | Good night.
+Au revoir.          | Good-bye.
+Adieu.              | Farewell.
+À tout à l'heure.   | See you soon.
+À bientôt.          | See you soon.
+À demain.           | Until tomorrow.
+Comment ça va?      | How are you? (familiar)
+Comment allez vous? | How are you?
+Ça va.              | Fine. (lit. It goes.)
+Ça va bien.         | Well. (lit. It goes well.)
+Je vais bien.       | I'm well.
+Oui.                | Yes.
+Si.                 | Yes. (Response to negative question.)
+Non.                | No.
+D'accord.           | OK. Agreed.
+S'il vous plait.    | Please.
+Merci.              | Thank you.
+Merci beaucoup.     | Thank you very much.
+De rien.            | You're welcome.
+Je vous en prie.    | It was my pleasure. (You're welcome.)
+Pas de quoi.        | Don't mention it.
+Pardon.             | Pardon.
+Excusez-moi.        | Excuse me.
+Je m'excuse.        | Excuse me.
+Je suis desolé(e).  | I'm sorry.
+Monsieur            | Mister
+Madame              | Misses
+Mademoiselle        | Miss
+

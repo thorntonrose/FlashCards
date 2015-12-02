@@ -1,0 +1,10 @@
+# Verbs - To do/make (faire)
+
+je fais      | I do (I am doing)
+tu fais      | you do
+il fait      | he/it does
+elle fait    | she/it does
+nous faisons | we do
+vous faites  | you [pl] do
+ils font     | they [m] do
+elles font   | they [f] do

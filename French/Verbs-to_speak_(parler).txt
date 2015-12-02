@@ -1,0 +1,42 @@
+# Verbs - parler (-er verb)
+
+# infinitive
+parler | to speak
+
+# present
+je parle         | I speak
+tu parles        | you speak
+il/elle parle    | he/she/it speaks
+nous parlons     | we speak
+vous parlez      | you [pl] speak
+ils/elle parlent | they [m/f] speak
+
+# imperfect (past)
+je parlais          | I spoke
+tu parlais          | you spoke
+il/elle parlait     | he/she/it spoke
+nous parlions       | we spoke
+vous parliez        | you [pl] spoke
+ils/elles parlaient | they [m/f] spoke
+
+# passe compose
+j'ai parlé          | I have spoken
+tu as parlé         | you have spoken
+il/elle a parlé     | he/she/it has spoken
+nous avons parlé    | we have spoken
+vous avez parlé     | you [pl] have spoken
+ils/elles ont parlé | they [m/f] have spoken
+
+#future
+je parlerai         | I will speak
+tu parleras         | you will speak
+il/elle parlera     | he/she/it will speak
+nous parlerons      | we will speak
+vous parlerez       | you [pl] will speak
+ils/elles parleront | they [m/f] will speak
+
+# imperative
+(tu) parle     | (you) speak
+(nous) parlons | let us speak
+(vous) parlez  | (you [pl]) speak
+

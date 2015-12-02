@@ -1,0 +1,71 @@
+# Dining
+
+# Vocabulary
+l'addition         | check
+apporter           | to bring
+l'assiette [f]     | plate
+avoir              | to have
+avoir faim         | to be hungry
+avoir soif         | to be thirsty
+la bière           | beer
+le boeuf           | beef
+le café            | coffee
+combien            | how much
+le couteau         | knife
+la crème glacée    | ice cream
+la cuillère        | spoon
+le dessert         | dessert
+le déjeuner        | lunch
+le diner           | dinner
+l'eau [f]          | water
+l'écuelle [f]      | bowl
+la faim            | hunger
+la fourchette      | fork
+le fromage         | cheese
+le fruit           | fruit
+le gateau          | cake
+le glace           | ice
+le jus             | juice
+le légume          | vegetable
+manger             | to eat
+l'oeuf             | egg
+ordonner           | to order
+le pain            | bread
+le petit déjeuner  | breakfast
+le poisson         | fish
+le poivre          | pepper
+la pomme           | apple
+la pomme de terre  | potato
+le porc            | pork
+la potage          | soup
+le pourboire       | tip, gratuity
+prêt               | ready
+la réservation     | reservation
+le restaurant      | restaurant
+le serviette       | napkin
+la salade          | salad
+la salle à manger  | dining room
+le sel             | salt
+la soif            | thirst
+le soupe           | soup
+la table           | table
+la table d'hote    | complete dinner
+la tasse           | cup
+le thé             | tea
+le verre           | glass
+le vin             | wine
+
+# Phrases
+J'ai faim.                        | I am hungry.
+As tu faim?                       | Are you hungry?
+Est-ce que vous avez faim?        | Are you hungry? (polite)
+J'ai soif.                        | I am thirsty.
+Je voudrais ...                   | I would like ...
+Est-ce que vous voudriez ... ?    | Would you like ... ? (polite)
+Que voulez-vous?                  | What would you like?
+Je n'ai faim pas.                 | I'm not hungry.
+Je ne veux rien.                  | I don't want anything.
+S'il vous plait apportez-mois ... | Please bring me ...
+Avez-vous ... ?                   | Do you have ... ?
+Je veux du cafe.                  | I want some coffee.
+

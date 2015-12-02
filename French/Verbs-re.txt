@@ -1,0 +1,46 @@
+# -re verb forms
+
+# infinitive
+(stem)+re | to ___
+
+# participles
+(stem)+u   | ___(ed)
+(stem)+ant | ___ing
+
+# present
+je (stem)+s          | I ___
+tu (stem)+s          | you ___
+il/elle (stem)       | he/she/it ___
+nous (stem)+ons      | we ___
+vous (stem)+ez       | you [pl] ___
+ils/elles (stem)+ent | they [m/f] ___
+
+# imperfect
+je (stem)+ais          | I ___(ed)
+tu (stem)+ais          | you ___(ed)
+il/elle (stem)+ait     | he/she/it ___(ed)
+nous (stem)+ions       | we ___(ed)
+vous (stem)+iez        | you [pl] ___(ed)
+ils/elles (stem)+aient | they [m/f] ___(ed)
+
+# passe compose
+j'ai (stem)+u          | I have ___
+tu as (stem)+u         | you have ___
+il/elle a (stem)+u     | he/she/it has ___
+nous avons (stem)+u    | we have ___
+vous avez (stem)+u     | you [pl] have ___
+ils/elles ont (stem)+u | they [m/f] have ___
+
+# future
+je (stem)+rai         | I will ___
+tu (stem)+ras         | you will ___
+il/elle (stem)+ra     | he/she/it will ___
+nous (stem)+rons      | we will ___
+vous (stem)+rez       | you [pl] will ___
+ils/elles (stem)+ront | they [m/f] will ___
+
+# imperative
+(tu) (stem)+s     | (you) ___
+(nous) (stem)+ons | let us ___
+(vous) (stem)+ez  | (you [pl]) ___
+

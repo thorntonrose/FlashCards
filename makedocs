@@ -1,0 +1,11 @@
+#!/bin/sh
+
+rm -r docs/api/*
+javadoc \
+   -classpath src \
+   -sourcepath src \
+   -private \
+   -d docs/api \
+   -author \
+   -version \
+   org.flashcards

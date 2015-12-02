@@ -1,0 +1,69 @@
+# Body parts
+
+ankle    | la cheville
+arm      | le bras
+artery   | l'artère
+back     | le dos
+beard    | la barbe
+belly    | le ventre
+bladder  | la vessie
+blood    | le sang
+body     | le corps
+bone     | l'os
+brain    | la cervelle
+breast   | le sein
+calf     | le mollet
+cheek    | la joue
+chest    | la poitrine
+chin     | le menton
+ear      | l'oreille
+elbow    | le coude
+eye      | l'oeil
+eyebrow  | le sourcil
+eyelid   | la paupière
+face     | le visage
+finger   | le doigt
+fist     | le poing
+flesh    | le chair
+foot     | le pied
+forehead | le front
+gum      | la gencive
+hair     | les cheveux [m]
+hand     | la main
+head     | la tête
+heart    | le coeur
+heel     | le talon
+hip      | la hanche
+jaw      | la mâchoire
+kidney   | le rein
+knee     | le genou
+leg      | la jambe
+lip      | la lèvre
+liver    | le foie
+lung     | le poumon
+mouth    | la bouche
+muscle   | le muscle
+mustache | la moustache
+nail     | l'ongle
+neck     | le cou
+nerve    | le nerf
+nose     | le nez
+palm     | la paume
+rib      | la côte
+shoulder | l'épaule
+skeleton | le squelette
+skin     | la peau
+skull    | le crâne
+sole     | la plante
+spine    | l'épine dorsale
+stomach  | l'estomac
+temple   | la tempe
+thigh    | la cuisse
+throat   | la gorge
+thumb    | le pouce
+toe      | l'orteil
+tongue   | la langue
+tooth    | la dent
+vein     | la veine
+wrist    | le poignet
+

@@ -1,0 +1,10 @@
+# Colors
+
+blanc | white
+bleu  | blue
+brun  | brown
+gris  | grey
+jaune | yellow
+rouge | red
+vert  | green
+

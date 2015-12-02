@@ -1,0 +1,42 @@
+# Verbs - To want (vouloir)
+
+# present
+je veux            | I want
+tu veux            | you want
+il/elle veut       | he/she/it wants
+nous voulons       | we want
+vous voulez        | you [pl] want
+ils/elles veulent  | they [m/f] want
+
+# imperfect
+je voulais          | I wanted
+tu voulais          | you wanted
+il/elle voulait     | he/she/it wanted
+nous voulions       | we wanted
+vous vouliez        | you [pl] wanted
+ils/elles voulaient | they [m/f] wanted
+
+# passe compose
+j'ai voulu       | I have wanted
+tu as voulu      | you have wanted
+il/elle a voulu  | he/she/it has wanted
+nous avons voulu | we have wanted
+vous avez voulu  | you [pl] have wanted
+ils/elles ont    | they [m/f] have wanted
+
+# future
+je voudrais        | I will want
+tu voudras         | you will want
+il/elle voudra     | he/she/it will want
+nous voudrons      | we will want
+vous voudrez       | you [pl] will want
+ils/elles voudront | they [m/f] will want
+
+# conditional
+je voudrais          | I would like
+tu voudrais          | you would like
+il/elle voudrait     | he/she/it would like
+nous voudrions       | we would like
+vous voudriez        | you [pl] would like
+ils/elles voudraient | they [m/f] would like
+

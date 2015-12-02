@@ -1,0 +1,49 @@
+# Personal pronouns
+
+# subject
+je       | I
+tu       | you
+il       | he, it
+elle     | she, it
+on       | one (indefinite)
+nous     | we
+vous     | you (pl.)
+ils      | they (m.)
+elles    | they (f.)
+
+# direct object
+me   | me
+te   | you
+le   | him, it (m.)
+la   | her, it (f.)
+nous | us
+vous | you (pl.)
+les  | them
+
+# indirect object
+me   | me
+te   | you
+lui  | him, her, it
+nous | us
+vous | you (pl.)
+leur | them
+
+# reflexive
+me   | myself
+te   | yourself
+se   | himself, herself, itself
+nous | ourselves
+vous | yourselves
+se   | themselves
+
+# stressed (disjunctive)
+moi   | me
+toi   | you
+lui   | him
+elle  | her
+soi   | oneself
+nous  | us
+vous  | you (pl.)
+eux   | them (m.)
+elles | them (f.)
+

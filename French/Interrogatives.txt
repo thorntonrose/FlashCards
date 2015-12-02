@@ -1,0 +1,15 @@
+# Interrogatives
+
+combien (de) | how many/much
+comment      | how
+où           | where
+pourqoui     | why
+quand        | when
+que          | what
+quel         | which [m]
+quelle       | which [f]
+quels        | which [m, pl]
+quelles      | which [f, pl]
+qui          | who
+quoi         | what (after preposition)
+

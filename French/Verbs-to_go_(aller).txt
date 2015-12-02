@@ -1,0 +1,26 @@
+# Verbs - To go (aller)
+
+# present
+je vais        | I go
+tu vas         | you go
+il/elle va     | he/she/it goes
+nous allons    | we go
+vous allez     | you [pl] go
+ils/elles vont | they [m/f] go
+
+# imperfect
+j'allais           | I went
+tu allais          | you went
+il/elle allait     | he/she/it went
+nous allions       | we went
+vous alliez        | you [pl] went
+ils/elles allaient | they [m/f] went
+
+# future
+j'irai          | I will go
+tu iras         | you will go
+il/elle ira     | he/she/it will go
+nous irons      | we will go
+vous irez       | you [pl] will go
+ils/elles iront | they [m/f] will go
+
